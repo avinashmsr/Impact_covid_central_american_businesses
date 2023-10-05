@@ -1,1 +1,10 @@
 # Impact_covid_central_american_businesses
+
+Covid-19 Pandemic has affected both people and companies alike. 
+Companies which had manual work in their operations, instead of using computers or automation, suffered losses due to the pandemic. Traditional physical stores which didn’t had an online portal too suffered. Small Medium Businesses (SMBs) were one of the worst affected and suffered huge losses. 
+Almost all Industries were badly affected including Retail, Manufacturing, Automotive, Food Processing/Packaging, Hotel, Restaurants, Taxi/Cab etc.
+Companies in Retail Industry that already have digital presence should be better equipped to tackle the pandemic because the customers can conveniently order their essentials and other important products online during lockdown periods. For example, Walmart, Giant Eagle, Best Buy, Costco, CVS, Rite Aid etc – all have online store fronts in addition to the traditional brick and mortar stores. In addition, e-commerce websites like Amazon continue to have strong growth because they have online presence and quick delivery times.
+Hypothesis:- I would like to establish that the firms, which are located in Central America –               El Salvador and Honduras, that offer Retail Services and already have digital presence in their operations and/or customer facing units should not face much impact on their sales/revenue figures despite the pandemic affecting the customer interactions in physical retail stores, compared to the firms which are yet to digitalize their operations. Given the datasets, our model will try to predict the sales increased or not. 
+It is also expected that the demand/sales will increase for medical equipment such as Face Masks, Hand Sanitizers, Hand Washes, Disinfectant Sprays, Disinfectant liquids as well as Food – especially healthy and nutritious food, immunity boosters, fruits, veggies etc.
+
+I worked on this 10-minute Analytics Challenge Project during one of the courses I took as part of my Full time MBA with Business Analytics program at the University of Pittsburgh.
